@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Auta</string>
+    <string name="action_settings">Settings</string>
+    <string name="car">Auto</string>
+    <string name="color">Kolor</string>
+    <string name="specification">Opis</string>
+    <string name="add">Dodaj</string>
+    <string name="item_selected_msg">Wybrane auto</string>
+    <string name="delete_question">Czy na pewno usunąć auto z listy?</string>
+    <string name="dialog_confirm">Zatwierdź</string>
+    <string name="dialog_cancel">Anuluj</string>
+    <string name="cancel_msg">Anulowano</string>
+    <string name="delete_dialog_tag">Usuń</string>
+    <string name="retry_msg">Spróbuj ponownie</string>
+    <string name="myFileprovider">com.example.homework2_list.fileprovider</string>
+</resources>
